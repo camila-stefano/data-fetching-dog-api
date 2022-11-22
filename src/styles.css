@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600;700;800&display=swap");
+
+.home__wrapper {
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff;
+}
+
+.home__container {
+  color: #1a2e35;
+  width: 1200px;
+}
+
+.home__image img {
+  width: 500px;
+}
+.home__image__randoms img {
+  width: 500px;
+}
+
+button {
+  background-color: #ff735c;
+  color: #1a2e35;
+  font-weight: 700;
+  border: none;
+}
+button:hover {
+  background-color: #ffbbb0;
+}
